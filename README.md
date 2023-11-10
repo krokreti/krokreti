@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Frontend</p>
+<h3 align="left">Frontend</h3>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">Backend</p>
+<h3 align="left">Backend</h3>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<p align="left">Mobile</p>
+<h3 align="left">Mobile</h3>
 
 ###
 
@@ -84,7 +84,7 @@
 
 ###
 
-<p align="left">Database</p>
+<h3 align="left">Database</h3>
 
 ###
 
@@ -102,9 +102,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/38614507790430498/1FFE1921F27D3E957064C1F3F72B5AF506648D0A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-</div>
+<h3 align="left">My social media!</h3>
 
 ###
 
@@ -116,5 +114,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img align="left" height="200" src="https://steamuserimages-a.akamaihd.net/ugc/38614507790430498/1FFE1921F27D3E957064C1F3F72B5AF506648D0A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
