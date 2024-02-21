@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2012.<br>📚 I'm currently learning Flutter.<br>🎯 Goals: I want to be a Golang Master. <br>🎲 Fun fact: I love Yuyu Hakusho</p>
+<p align="left">✨ Creating bugs since 2012.<br>📚 I'm currently learning Golang.<br>🎯 Goals: I want to be a Golang Master. <br>🎲 Fun fact: I love Yuyu Hakusho</p>
 
 ###
 
