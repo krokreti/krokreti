@@ -6,6 +6,10 @@
 
 ###
 
+<p align="left"> "A idiot admires complexity, a genius admires simplicity" </p>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
