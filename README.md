@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"> "A idiot admires complexity, a genius admires simplicity" - Terry Davis </p>
+<p align="left"> "An idiot admires complexity, a genius admires simplicity" - Terry Davis </p>
 
 ###
 
