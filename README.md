@@ -6,6 +6,10 @@
 
 ###
 
+<p align="left"> "All dreams are but another reality. Never forget..." </p>
+
+###
+
 <p align="left"> "An idiot admires complexity, a genius admires simplicity" - Terry Davis </p>
 
 ###
